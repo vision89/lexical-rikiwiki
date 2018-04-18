@@ -1,0 +1,1 @@
+A small console app for a class project
