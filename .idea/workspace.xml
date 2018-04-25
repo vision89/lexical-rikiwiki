@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d1b7311-bead-4ebc-87ae-cd52a6793fca" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Helper/WikiHelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test-cl.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lexical-rikiwiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/lexical-rikiwiki.py" afterDir="false" />
@@ -15,17 +19,58 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/lexical_rikiwiki$Unittests_in_lexical_rikiwiki_tests_py.coverage" NAME="Unittests in lexical_rikiwiki_tests.py Coverage Results" MODIFIED="1523982897820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/lexical_rikiwiki$lexical_rikiwiki.coverage" NAME="lexical-rikiwiki Coverage Results" MODIFIED="1524092796531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lexical_rikiwiki$lexical_rikiwiki.coverage" NAME="lexical-rikiwiki Coverage Results" MODIFIED="1524627482998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lexical_rikiwiki$Unittests_in__Users_dustingulley_PycharmProjects_lexical_rikiwiki_tests_lexical_rikiwiki_tests_py.coverage" NAME="Unittests in test-cl.py Coverage Results" MODIFIED="1524628949064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/lexical_rikiwiki$Unnamed.coverage" NAME="Tests Coverage Results" MODIFIED="1524628085676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="lexical-rikiwiki.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lexical-rikiwiki.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+            <state relative-caret-position="90">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="38" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WikiHelper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Helper/WikiHelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Helper/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-cl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test-cl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wiki_440_version_helper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/wiki_440_version_helper/wiki_440_version_helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="159" column="36" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,7 +79,7 @@
       <file leaf-file-name="UserManager.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/UserManager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-453">
+            <state relative-caret-position="510">
               <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="34" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -46,8 +91,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -96,7 +141,13 @@
         <option value="$PROJECT_DIR$/license.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/UserManager.py" />
+        <option value="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wiki_440_version_helper/__init__.py" />
+        <option value="$PROJECT_DIR$/lexical-rikiwiki/WikiHelper.py" />
+        <option value="$PROJECT_DIR$/lexical-rikiwiki/__init__.py" />
+        <option value="$PROJECT_DIR$/Helper/__init__.py" />
+        <option value="$PROJECT_DIR$/Helper/WikiHelper.py" />
         <option value="$PROJECT_DIR$/lexical-rikiwiki.py" />
+        <option value="$PROJECT_DIR$/tests/test-cl.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -108,8 +159,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="31" />
+    <option name="x" value="29" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -129,7 +180,18 @@
             </path>
             <path>
               <item name="lexical-rikiwiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="lexical-rikiwiki" type="462c0819:PsiDirectoryNode" />
+              <item name="Helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lexical-rikiwiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lexical-rikiwiki" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lexical-rikiwiki" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lexical-rikiwiki" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,6 +205,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lexical-rikiwiki" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -155,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lexical-rikiwiki">
+  <component name="RunManager" selected="Python tests.Unittests in test-cl.py">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="lexical-rikiwiki" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,12 +257,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lexical-rikiwiki.py" />
-      <option name="PARAMETERS" value="-p $USER_HOME$/nku/CSC-540/RikiWiki/wiki_flask/user -u -n test_dustin -pa test_password2" />
+      <option name="PARAMETERS" value="-p $USER_HOME$/nku/CSC-540/RikiWiki/wiki_flask/user/users.json" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in lexical_rikiwiki_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test-cl.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="lexical-rikiwiki" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,18 +272,19 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/lexical_rikiwiki_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test-cl.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
       <item itemvalue="Python.lexical-rikiwiki" />
-      <item itemvalue="Python tests.Unittests in lexical_rikiwiki_tests.py" />
+      <item itemvalue="Python tests.Unittests in test-cl.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test-cl.py" />
         <item itemvalue="Python.lexical-rikiwiki" />
-        <item itemvalue="Python tests.Unittests in lexical_rikiwiki_tests.py" />
       </list>
     </recent_temporary>
   </component>
@@ -233,62 +302,62 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 22m 24s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.24 at 23h 56m 17s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 22m 50s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.24 at 23h 57m 04s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 23m 06s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.24 at 23h 58m 07s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 24m 25s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.24 at 23h 59m 27s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 25m 24s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.24 at 23h 59m 37s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 25m 47s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.25 at 00h 00m 04s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 28m 03s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.25 at 00h 00m 33s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 29m 01s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.25 at 00h 01m 31s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 34m 43s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.25 at 00h 01m 49s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_lexical_rikiwiki_tests_py - 2018.04.17 at 12h 34m 57s.xml">
-      <configuration name="Unittests in lexical_rikiwiki_tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test-cl_py - 2018.04.25 at 00h 02m 29s.xml">
+      <configuration name="Unittests in test-cl.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="31" width="1280" height="777" extended-state="0" />
+    <frame x="29" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32859176" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997155" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997155" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +368,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lexical-rikiwiki.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test-cl.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -306,20 +387,64 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/lexical_rikiwiki_tests.py">
+    <entry file="file://$PROJECT_DIR$/lexical-rikiwiki.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="420">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/wiki_440_version_helper/wiki_440_version_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2355">
+          <caret line="159" column="36" lean-forward="true" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/UserManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/license.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/wiki440_sqlite_database/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/lexical_rikiwiki_tests.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -343,34 +468,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/ldapuser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/usermanager/dead_simple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/service.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/ldapuser.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/usermanager/dead_simple.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -380,7 +480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/UserManager/UserManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453">
+        <state relative-caret-position="510">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="34" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -388,10 +488,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/wiki_440_version_helper/wiki_440_version_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="159" column="36" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helper/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test-cl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Helper/WikiHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lexical-rikiwiki.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="38" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -400,8 +531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
